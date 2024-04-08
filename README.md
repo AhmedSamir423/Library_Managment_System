@@ -1,4 +1,7 @@
-This C program is designed as a library management system to facilitate efficient organization and management of library resources. Here's a detailed description of each function within the project:
+This C program is designed as a library management system to facilitate efficient organization and management of library resources.
+This C program is a library management system enabling functions like adding, deleting, modifying books, along with searching and advanced searching. It includes sorting books by title, price, or publication date, login, saving changes, and quitting with options to discard changes or return to the main menu.
+
+ Here's a detailed description of each function within the project:
 
 1. `int isvalid(char s[])`: This function checks if a given string contains only digits, used for validating inputs like ISBN and year.
 
