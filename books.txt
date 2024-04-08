@@ -1,0 +1,10 @@
+9700000000001,data structures and algorithms,Timberlake Karen,10,7.500000,12-2008
+9700000000002,analysis and design of algorithms,Thomas Korman,7,6.200000,12-2015
+9700000000003,digital logic design,Michael Robert,3,5.500000,11-2008
+9700000000004,operating systems,William Stallings,2,55.000000,11-2015
+9700000000005,database systems,Ramez Elmasri,1,4.500000,10-2015
+9700000000006,mathematics for social scientists,Kropko Jonathan,7,4.210000,1-2020
+9700000000007,discrete structure for computing,Gordon J. Pace,8,3.800000,2-2020
+9700000000008,artificial intelligence,Erik J. Larson,7,3.570000,10-2023
+1234567890123,programming,ahmed samir,10,50.000000,2-2022
+1234567890123,Ahmed,Samir,2,85.000000,12-2022
